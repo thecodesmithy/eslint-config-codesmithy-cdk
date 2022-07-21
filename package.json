@@ -1,0 +1,19 @@
+{
+  "name": "@thecodesmithy/eslint-config-common",
+  "version": "1.0.0",
+  "description": "Shareable base ESLint configuration",
+  "main": "src/index.js",
+  "author": {
+    "name": "Paul Aldred-Bann",
+    "email": "pab@thecodesmithy.com",
+    "url": "https://www.thecodesmithy.com"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "eslint": "^8.22.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-simple-import-sort": "^7.0.0",
+    "prettier": "^2.7.1"
+  }
+}
